@@ -1,0 +1,7 @@
+{
+  "Effect": "Allow",
+  "Action": [
+    "ecr:GetAuthorizationToken"
+  ],
+  "Resource": "*"
+}
